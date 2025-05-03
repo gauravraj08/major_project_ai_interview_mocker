@@ -1,0 +1,6 @@
+projectKey=AI-Interview-Mocker
+serverUrl=http://localhost:9000
+serverVersion=10.5.0.89998
+dashboardUrl=http://localhost:9000/dashboard?id=AI-Interview-Mocker
+ceTaskId=d4bf8d3f-2e3f-43ef-a648-136571a2ba5d
+ceTaskUrl=http://localhost:9000/api/ce/task?id=d4bf8d3f-2e3f-43ef-a648-136571a2ba5d
